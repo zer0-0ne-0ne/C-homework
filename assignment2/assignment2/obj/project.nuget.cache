@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3M0ZIxnfO/A=",
+  "success": true,
+  "projectFilePath": "D:\\C#\\assignment2\\assignment2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Z.E\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.13\\microsoft.dotnet.ilcompiler.8.0.13.nupkg.sha512",
+    "C:\\Users\\Z.E\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.13\\microsoft.net.illink.tasks.8.0.13.nupkg.sha512",
+    "C:\\Users\\Z.E\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.13\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
